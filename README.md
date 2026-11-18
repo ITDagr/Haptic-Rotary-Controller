@@ -10,7 +10,9 @@ Cost- This board is overall pretty pricy for all the parts needed. The motor esp
 Why?, This board is optimal for anyone without a soldering iron that is interested in PCB hardware, FOC, or overall product feel and interesting designs. It can be made into any type of knob with simple CAD skills and creativity, and that is the main goal. It is more universal that Scott Bezek's design which is less customizable.
 
 BOM- 
-1 PCB (Desc in another file)
+
+1 PCB ( another file)
+
 [Three Phase Brushless Gimbal Stabilizer Motor]([url](https://www.sparkfun.com/three-phase-brushless-gimbal-stabilizer-motor.html))
 
 [2x Kalih Choc v2 mini (Completely optimal and not recomended. Can be a bit pricey so avoid it if thats a concern. Kit will likely ship with 2)](https://www.kailh.net/products/kailh-choc-v2-low-profile-switch-set?variant=43775878004978))
