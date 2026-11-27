@@ -1,3 +1,4 @@
+<img width="1674" height="1560" alt="image" src="https://github.com/user-attachments/assets/25be1667-04b3-4568-8025-8aeab5c67a38" />
 
 # Haptic-Rotary-Controller
 A ESP32 based haptic rotary controller based on FOC and Scott Bezek's smart knob
